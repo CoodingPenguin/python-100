@@ -2,10 +2,5 @@
 
 N = int(input())
 
-for row in range(N):
-    for col in range(N+row):
-        if col < N-row-1:
-            print(' ', end='')
-        else:
-            print('*', end='')
-    print()
+for i in range(1, N+1):
+    print(" "*(N-i), "*"*(i*2 - 1), sep='')
