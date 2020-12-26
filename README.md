@@ -11,7 +11,7 @@
 ## ✅ 공부 일지
 
 <table style="text-align:center;">
-    <thead>
+    <thead align="left">
         <tr>
             <th width="100%" colspan="10">🏕 Python 100제 1권</th>
         </tr>
@@ -78,7 +78,7 @@
             <td><a href="./code/50.py">50</a></td>
         </tr>
     </tbody>
-    <thead>
+    <thead align="left">
         <tr>
             <th width="100%" colspan="10">🏕 Python 100제 2권</th>
         </tr>
