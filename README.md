@@ -18,16 +18,16 @@
     </thead>
     <tbody>
         <tr align="center">
-            <td width="10%"><a href="./code/1.py">1번</a></td>
-            <td width="10%"><a href="./code/2.py">2번</a></td>
-            <td width="10%"><a href="./code/3.py">3번</a></td>
-            <td width="10%"><a href="./code/4.py">4번</a></td>
-            <td width="10%"><a href="./code/5.py">5번</a></td>
-            <td width="10%"><a href="./code/6.py">6번</a></td>
-            <td width="10%"><a href="./code/7.py">7번</a></td>
-            <td width="10%"><a href="./code/8.py">8번</a></td>
-            <td width="10%"><a href="./code/9.py">9번</a></td>
-            <td width="10%"><a href="./code/10.py">10번</a></td>
+            <td width="50px"><a href="./code/1.py">1번</a></td>
+            <td width="50px"><a href="./code/2.py">2번</a></td>
+            <td width="50px"><a href="./code/3.py">3번</a></td>
+            <td width="50px"><a href="./code/4.py">4번</a></td>
+            <td width="50px"><a href="./code/5.py">5번</a></td>
+            <td width="50px"><a href="./code/6.py">6번</a></td>
+            <td width="50px"><a href="./code/7.py">7번</a></td>
+            <td width="50px"><a href="./code/8.py">8번</a></td>
+            <td width="50px"><a href="./code/9.py">9번</a></td>
+            <td width="50px"><a href="./code/10.py">10번</a></td>
         </tr>
         <tr align="center">
             <td><a href="./code/11.py">11번</a></td>
