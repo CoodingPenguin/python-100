@@ -8,9 +8,9 @@
   <small>제주코딩베이스캠프 Code Festival: Python 100제</small>
 </div>
 
-## ✅ 공부일지
+## ✅ 공부 일지
 
-<table width="100%">
+<table>
     <thead>
         <tr width="100%">
             <th colspan="10">🏕 Python 100제 1권</th>
