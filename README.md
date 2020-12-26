@@ -10,7 +10,7 @@
 
 ## ✅ 공부일지
 
-<table>
+<table width="100%">
     <thead>
         <tr width="100%">
             <th colspan="10">🏕 Python 100제 1권</th>
