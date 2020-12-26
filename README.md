@@ -10,11 +10,7 @@
 
 ## ✅ 공부 일지
 
-<<<<<<< HEAD
 <table style="text-align:center;">
-=======
-<table width="100%">
->>>>>>> 2977ad73407bbe0660a43986a92c19c22cf035f0
     <thead>
         <tr>
             <th width="100%" colspan="10">🏕 Python 100제 1권</th>
