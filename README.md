@@ -18,16 +18,16 @@
     </thead>
     <tbody>
         <tr align="center">
-            <td><a href="./code/1.py">문제 1</a></td>
-            <td><a href="./code/2.py">문제 2</a></td>
-            <td><a href="./code/3.py">문제 3</a></td>
-            <td><a href="./code/4.py">문제 4</a></td>
-            <td><a href="./code/5.py">문제 5</a></td>
-            <td><a href="./code/6.py">문제 6</a></td>
-            <td><a href="./code/7.py">문제 7</a></td>
-            <td><a href="./code/8.py">문제 8</a></td>
-            <td><a href="./code/9.py">문제 9</a></td>
-            <td><a href="./code/10.py">문제 10</a></td>
+            <td width="10%"><a href="./code/1.py">문제 1</a></td>
+            <td width="10%"><a href="./code/2.py">문제 2</a></td>
+            <td width="10%"><a href="./code/3.py">문제 3</a></td>
+            <td width="10%"><a href="./code/4.py">문제 4</a></td>
+            <td width="10%"><a href="./code/5.py">문제 5</a></td>
+            <td width="10%"><a href="./code/6.py">문제 6</a></td>
+            <td width="10%"><a href="./code/7.py">문제 7</a></td>
+            <td width="10%"><a href="./code/8.py">문제 8</a></td>
+            <td width="10%"><a href="./code/9.py">문제 9</a></td>
+            <td width="10%"><a href="./code/10.py">문제 10</a></td>
         </tr>
         <tr align="center">
             <td><a href="./code/11.py">문제 11</a></td>
